@@ -1,0 +1,21 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        請描述你的想法。請勿提供病患資料、身分證、密碼或正式資料。
+  - type: textarea
+    id: idea
+    attributes:
+      label: 想法內容
+      description: 請說明你的建議或改善方向。
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 預期效益
+      description: 這個想法可以改善什麼？
+    validations:
+      required: false

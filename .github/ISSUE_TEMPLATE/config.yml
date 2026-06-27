@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 資安或敏感資料事件
+    url: https://github.com/TSGH-Keelung-IT
+    about: 請勿在公開 Issue 貼上敏感資料，請直接聯絡 Repository 管理者。
